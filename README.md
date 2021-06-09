@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1>Hi there, I'm James! 👋</h1>
+
+<p>I'm interested in software and web development!</p>
+
+---
+<h3>I'm currently learning:</h3>
+<ul>
+ <li> Python </li>
+ <li> JavaScript </li>
+ <li> C# </li>
+</ul>
+
+---
+
+
+
+  
+
 
 <!--
 **JamShibe/jamshibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
